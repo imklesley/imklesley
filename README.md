@@ -18,6 +18,8 @@
 
 🫂 I'm a team player, and I'm always looking to collaborate with others to create amazing applications. I believe that through teamwork, anything is possible.
 
+🔥 If you're looking for a full-stack developer with experience in Flutter and Django, I'm confident that I can provide the solutions you need. Feel free to contact me if you'd like to discuss any potential projects.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imklesley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imklesley) 
 
