@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imklesley&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
-#💡 About Me:
+💡 About Me:
 
 👋 Hello! 
 
