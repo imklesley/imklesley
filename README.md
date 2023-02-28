@@ -8,9 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imklesley&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+#💡 About Me:
 
+👋 Hello! 
+
+🔭 My name is Klesley, and I'm a full stack developer specializing in Flutter and Django. I have been working in this field for the last 3 years and I'm passionate about creating innovative solutions to complex problems. I have experience in building applications for various platforms, including web, mobile and desktop. My expertise lies in developing user interfaces and creating well-structured web applications. I am experienced in using popular frameworks, such as Flutter and Django, to build efficient and robust applications. I am also experienced in deploying applications to cloud services such as Amazon Web Services. I am passionate about learning and exploring new technologies and developing solutions that can make a difference.
+
+💞 I'm very passionate about software development, and I love to find solutions to complex problems. I also have an eye for details, which helps me create intuitive, user-friendly applications. I'm always willing to take on new challenges, and I'm continuously learning new technologies.
+
+🫂 I'm a team player, and I'm always looking to collaborate with others to create amazing applications. I believe that through teamwork, anything is possible.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imklesley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imklesley) 
