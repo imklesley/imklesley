@@ -1,7 +1,7 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">  Welcome to my dev world! I'm Klesley <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> Welcome to my dev world! I'm Klesley</h1>
+         width="45" /></h1>
 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=imklesley&style=for-the-badge&label=PROFILE+VIEWS)" alt="imklesley" /> </p>
 
