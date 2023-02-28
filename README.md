@@ -6,7 +6,7 @@
          height="45"
          width="45" /></h1>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)" alt="imklesley" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imklesley&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
