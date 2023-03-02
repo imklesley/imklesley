@@ -12,13 +12,13 @@
 
 👋 Hello! 
 
-🔭 My name is Klesley, and i'm a full stack developer specializing in Flutter and Django. I'm passionate about creating innovative solutions to complex problems with an intuitive user experience and clean codebase. I have experience in building applications for various platforms, including web, mobile and desktop, developing both front-end and back-end features. My expertise lies in developing user interfaces and creating well-structured web applications. I am experienced in using popular frameworks, such as Flutter and Django, to build efficient and robust applications. I'm experienced in using RESTful APIs, and have a good understanding of database design and structure. I'm always looking for new challenges and opportunities to learn and grow. I am also experienced in deploying applications to cloud services such as Amazon Web Services. 
+🔭 My name is Klesley, and i'm a full stack developer specializing in Flutter and Django. I'm passionate about creating innovative solutions to complex problems with an intuitive user experience and clean codebase. I have experience in building applications for various platforms, including web, mobile and desktop, developing both front-end and back-end features. My expertise lies in developing user interfaces and creating well-structured web applications. I am experienced in using popular frameworks, such as Flutter and Django, to build efficient and robust applications. I'm experienced in using RESTful APIs, and have a good understanding of database design and structure. I am also experienced in deploying applications to cloud services such as Amazon Web Services. And last but not least, i'm always looking for new challenges and opportunities to learn and grow. 
 
-💞 I'm very passionate about software development, and I love to find solutions to complex problems. I also have an eye for details, which helps me create intuitive, user-friendly applications. I'm always willing to take on new challenges, and I'm continuously learning, exploring new technologies and developing solutions that can make a difference.
+💞 I'm very passionate about software development, and i love to find solutions to complex problems. I also have an eye for details, which helps me create intuitive, user-friendly applications. I'm always willing to take on new challenges, and I'm continuously learning, exploring new technologies and developing solutions that can make a difference.
 
-🫂 I'm a team player, and I'm always looking to collaborate with others to create amazing applications. I believe that through teamwork, anything is possible.
+🫂 I'm a team player, and i'm always looking to collaborate with others to create amazing applications. I believe that through teamwork, anything is possible.
 
-🔥 If you're looking for a full-stack developer with experience in Flutter and Django, I'm confident that I can provide the solutions you need. Feel free to contact me if you'd like to discuss any potential projects.
+🔥 If you're looking for a full-stack developer with experience in Flutter and Django, i'm confident that i can provide the solutions you need. Feel free to contact me if you'd like to discuss any potential projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imklesley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imklesley) 
