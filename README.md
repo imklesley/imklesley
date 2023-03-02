@@ -6,7 +6,7 @@
          height="45"
          width="45" /></h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=imklesley&label=Profile+Views&color=blue&style=plastic&style=for-the-badge&color=D93A7C" alt="imklesley" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imklesley&label=Profile+Views&color=blue&style=plastic&style=for-the-badge&color=D93A7C" alt="imklesley" /> </p>
 
 ## 💡 About Me:
 
